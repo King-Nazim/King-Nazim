@@ -2,14 +2,13 @@
    
 - 📫 [Connect with me](https://t.me/NazimCp).
 - ⚡ Always ready to help!
+
 ---
-<div align="left">
-
-<img align="left" src="https://github.com/King-Nazim/King-Nazim/blob/main/Developer.gif"/>
+<div align="center">
+<img align="center" src="https://github.com/King-Nazim/King-Nazim/blob/main/Developer.gif"/>
 </div>
-</br>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
+---
 ## 🛠️ Languages and tools
 </br>
 <a href="https://developer.android.com" class="padded" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> 
